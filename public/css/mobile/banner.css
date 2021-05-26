@@ -41,6 +41,11 @@
     background-color: white;
 }
 
+body {
+    overflow-x: hidden !important;
+    width: 100%
+}
+
 .dualImgContainer img, .dualImgContainer ul{
     max-width:90%;
     max-height: 40vh;

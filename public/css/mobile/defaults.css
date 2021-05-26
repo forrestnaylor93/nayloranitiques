@@ -14,6 +14,11 @@ body{
     color: rgb(55, 52, 59);
 }
 
+body {
+    overflow-x: hidden !important;
+    width: 100%
+}
+
 
 /* sets title classes to Montserrat */
 .title{

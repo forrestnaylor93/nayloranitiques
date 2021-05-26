@@ -19,3 +19,8 @@ footer{
 .contactInfo div{
     color: rgba(235, 228, 241, 1); 
 }
+
+body {
+    overflow-x: hidden !important;
+    width: 100%
+}
